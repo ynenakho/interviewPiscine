@@ -1,0 +1,2 @@
+O(n^2) in time, where n is number of elements in linked-list
+O(n) in space

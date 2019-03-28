@@ -1,0 +1,2 @@
+O(n) in time, where n is number of cities
+O(1) in space
