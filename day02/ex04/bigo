@@ -1,0 +1,3 @@
+O(n + m) - in time.
+O(n + m) - in space.
+Where n - elements in the array, m - range of numbers in array.
